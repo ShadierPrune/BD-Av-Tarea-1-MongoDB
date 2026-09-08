@@ -1,0 +1,176 @@
+[
+  {
+    "_id": 1,
+    "nombreDirector": "Norberto López Amado",
+    "nacionalidad": "España",
+    "edad": 57
+  },
+  {
+    "_id": 2,
+    "nombreDirector": "Alejandro Bazzano",
+    "nacionalidad": "Argentina",
+    "edad": 49
+  },
+  {
+    "_id": 3,
+    "nombreDirector": "Javier Quintas",
+    "nacionalidad": "España",
+    "edad": 53
+  },
+  {
+    "_id": 4,
+    "nombreDirector": "Alberto Ruiz Rojo",
+    "nacionalidad": "España",
+    "edad": 46
+  },
+  {
+    "_id": 5,
+    "nombreDirector": "Menna Fité",
+    "nacionalidad": "España",
+    "edad": 42
+  },
+  {
+    "_id": 6,
+    "nombreDirector": "Carlos Sedes",
+    "nacionalidad": "España",
+    "edad": 50
+  },
+  {
+    "_id": 7,
+    "nombreDirector": "Eduardo Chapero-Jackson",
+    "nacionalidad": "España",
+    "edad": 54
+  },
+  {
+    "_id": 8,
+    "nombreDirector": "Alberto Caballero",
+    "nacionalidad": "España",
+    "edad": 49
+  },
+  {
+    "_id": 9,
+    "nombreDirector": "Laura Caballero",
+    "nacionalidad": "España",
+    "edad": 47
+  },
+  {
+    "_id": 10,
+    "nombreDirector": "Juan Luis Iborra",
+    "nacionalidad": "España",
+    "edad": 65
+  },
+  {
+    "_id": 11,
+    "nombreDirector": "Jordi Frades",
+    "nacionalidad": "España",
+    "edad": 58
+  },
+  {
+    "_id": 12,
+    "nombreDirector": "Salvador García",
+    "nacionalidad": "España",
+    "edad": 52
+  },
+  {
+    "_id": 13,
+    "nombreDirector": "Kiko Ruiz Claverol",
+    "nacionalidad": "España",
+    "edad": 50
+  },
+  {
+    "_id": 14,
+    "nombreDirector": "César Rodríguez",
+    "nacionalidad": "España",
+    "edad": 56
+  },
+  {
+    "_id": 15,
+    "nombreDirector": "Ángeles Reiné",
+    "nacionalidad": "España",
+    "edad": 61
+  },
+  {
+    "_id": 16,
+    "nombreDirector": "Enric Folch",
+    "nacionalidad": "España",
+    "edad": 48
+  },
+  {
+    "_id": 17,
+    "nombreDirector": "Jaime Botella",
+    "nacionalidad": "España",
+    "edad": 55
+  },
+  {
+    "_id": 18,
+    "nombreDirector": "Manuel Tera",
+    "nacionalidad": "España",
+    "edad": 60
+  },
+  {
+    "_id": 19,
+    "nombreDirector": "Álvaro Fernández Armero",
+    "nacionalidad": "España",
+    "edad": 59
+  },
+  {
+    "_id": 20,
+    "nombreDirector": "Joaquín Mazón",
+    "nacionalidad": "España",
+    "edad": 54
+  },
+  {
+    "_id": 21,
+    "nombreDirector": "Silvia Quer",
+    "nacionalidad": "España",
+    "edad": 57
+  },
+  {
+    "_id": 22,
+    "nombreDirector": "Jorge Sánchez-Cabezudo",
+    "nacionalidad": "España",
+    "edad": 53
+  },
+  {
+    "_id": 23,
+    "nombreDirector": "Iñaki Mercero",
+    "nacionalidad": "España",
+    "edad": 58
+  },
+  {
+    "_id": 24,
+    "nombreDirector": "Jacobo Martos",
+    "nacionalidad": "España",
+    "edad": 46
+  },
+  {
+    "_id": 25,
+    "nombreDirector": "David Molina",
+    "nacionalidad": "España",
+    "edad": 51
+  },
+  {
+    "_id": 26,
+    "nombreDirector": "José Ramón Ayerra",
+    "nacionalidad": "España",
+    "edad": 63
+  },
+  {
+    "_id": 27,
+    "nombreDirector": "Fernando González",
+    "nacionalidad": "España",
+    "edad": 55
+  },
+  {
+    "_id": 28,
+    "nombreDirector": "Sandra Gallego",
+    "nacionalidad": "España",
+    "edad": 50
+  },
+  {
+    "_id": 29,
+    "nombreDirector": "Jesús Colmenar",
+    "nacionalidad": "España",
+    "edad": 49
+  }
+]
