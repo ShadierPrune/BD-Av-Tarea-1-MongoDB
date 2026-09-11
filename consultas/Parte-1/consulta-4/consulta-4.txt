@@ -1,0 +1,16 @@
+.aggregate([
+  {
+    $project: {
+      Nombre: 1,
+      _id: 0,
+      Patrimonio: 1,
+      Edad: 1,
+      Nacionalidad: 1
+    }
+  },
+  {
+    $sort: {Patrimonio: -1}
+  },
+  {$skip: 4},
+  {$limit: 10}
+])

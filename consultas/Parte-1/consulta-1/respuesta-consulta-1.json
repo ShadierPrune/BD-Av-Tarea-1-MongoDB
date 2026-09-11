@@ -1,0 +1,324 @@
+[{
+  "Nombre": "René García",
+  "Nacionalidad": "México",
+  "Edad": 52,
+  "Personajes": [
+    {
+      "Nombre": "Vegeta",
+      "Serie, película, anime o videojuego": "Dragon Ball Z",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 291,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Artes marciales"
+      ]
+    },
+    {
+      "Nombre": "Vegeta",
+      "Serie, película, anime o videojuego": "Dragon Ball Super",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 131,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Artes marciales"
+      ]
+    }
+  ]
+},
+{
+  "Nombre": "Tara Strong",
+  "Nacionalidad": "Canadá",
+  "Edad": 53,
+  "Personajes": [
+    {
+      "Nombre": "Raven",
+      "Serie, película, anime o videojuego": "Teen Titans",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 65,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Superhéroes"
+      ]
+    },
+    {
+      "Nombre": "Bubbles",
+      "Serie, película, anime o videojuego": "The Powerpuff Girls",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 78,
+      "Géneros": [
+        "Acción",
+        "Comedia",
+        "Superhéroes",
+        "Animación"
+      ]
+    }
+  ]
+},
+{
+  "Nombre": "Grey DeLisle",
+  "Nacionalidad": "Estados Unidos",
+  "Edad": 53,
+  "Personajes": [
+    {
+      "Nombre": "Daphne Blake",
+      "Serie, película, anime o videojuego": "Scooby-Doo",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 200,
+      "Géneros": [
+        "Misterio",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ]
+    },
+    {
+      "Nombre": "Azula",
+      "Serie, película, anime o videojuego": "Avatar: The Last Airbender",
+      "Tipo de producción": "profesional",
+      "Rol": "secundario",
+      "Cantidad de apariciones": 20,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Drama"
+      ]
+    }
+  ]
+},
+{
+  "Nombre": "Junko Takeuchi",
+  "Nacionalidad": "Japón",
+  "Edad": 54,
+  "Personajes": [
+    {
+      "Nombre": "Naruto Uzumaki",
+      "Serie, película, anime o videojuego": "Naruto",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 220,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Drama",
+        "Fantasía"
+      ]
+    },
+    {
+      "Nombre": "Naruto Uzumaki",
+      "Serie, película, anime o videojuego": "Naruto Shippuden",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 500,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Drama",
+        "Fantasía"
+      ]
+    }
+  ]
+},
+{
+  "Nombre": "Dwayne Johnson",
+  "Nacionalidad": "Estados Unidos",
+  "Edad": 54,
+  "Personajes": [
+    {
+      "Nombre": "Maui",
+      "Serie, película, anime o videojuego": "Moana",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 1,
+      "Géneros": [
+        "Aventura",
+        "Fantasía",
+        "Musical",
+        "Familia"
+      ]
+    },
+    {
+      "Nombre": "Luke Hobbs",
+      "Serie, película, anime o videojuego": "Rápidos y Furiosos 8",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 1,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Crimen"
+      ]
+    }
+  ]
+},
+{
+  "Nombre": "Cristina Hernández",
+  "Nacionalidad": "México",
+  "Edad": 55,
+  "Personajes": [
+    {
+      "Nombre": "Sailor Chibi Moon",
+      "Serie, película, anime o videojuego": "Sailor Moon",
+      "Tipo de producción": "profesional",
+      "Rol": "secundario",
+      "Cantidad de apariciones": 200,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Romance"
+      ]
+    },
+    {
+      "Nombre": "Sakura Kinomoto",
+      "Serie, película, anime o videojuego": "Cardcaptor Sakura",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 70,
+      "Géneros": [
+        "Aventura",
+        "Fantasía",
+        "Romance"
+      ]
+    }
+  ]
+},
+{
+  "Nombre": "Jeremy Renner",
+  "Nacionalidad": "Estados Unidos",
+  "Edad": 55,
+  "Personajes": [
+    {
+      "Nombre": "Clint Barton / Hawkeye",
+      "Serie, película, anime o videojuego": "The Avengers",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 5,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Superhéroes",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "Nombre": "Clint Barton / Hawkeye",
+      "Serie, película, anime o videojuego": "Hawkeye",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 6,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Superhéroes",
+        "Comedia"
+      ]
+    }
+  ]
+},
+{
+  "Nombre": "Nolan North",
+  "Nacionalidad": "Estados Unidos",
+  "Edad": 55,
+  "Personajes": [
+    {
+      "Nombre": "Nathan Drake",
+      "Serie, película, anime o videojuego": "Uncharted",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 6,
+      "Géneros": [
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "Nombre": "Deadpool",
+      "Serie, película, anime o videojuego": "Marvel",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 10,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Superhéroes"
+      ]
+    }
+  ]
+},
+{
+  "Nombre": "Yuri Lowenthal",
+  "Nacionalidad": "Estados Unidos",
+  "Edad": 55,
+  "Personajes": [
+    {
+      "Nombre": "Peter Parker",
+      "Serie, película, anime o videojuego": "Marvel's Spider-Man",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 2,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Superhéroes"
+      ]
+    },
+    {
+      "Nombre": "Sasuke Uchiha",
+      "Serie, película, anime o videojuego": "Naruto",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 220,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Drama",
+        "Fantasía"
+      ]
+    }
+  ]
+},
+{
+  "Nombre": "Isabel Martiñón",
+  "Nacionalidad": "México",
+  "Edad": 57,
+  "Personajes": [
+    {
+      "Nombre": "Naruto Uzumaki",
+      "Serie, película, anime o videojuego": "Naruto",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 220,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Drama",
+        "Fantasía"
+      ]
+    },
+    {
+      "Nombre": "Naruto Uzumaki",
+      "Serie, película, anime o videojuego": "Naruto Shippuden",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 500,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Drama",
+        "Fantasía"
+      ]
+    }
+  ]
+}]

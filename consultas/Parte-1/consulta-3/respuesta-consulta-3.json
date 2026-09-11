@@ -1,0 +1,32 @@
+[{
+  "Nombre": "Aleks Le",
+  "Nacionalidad": "Estados Unidos",
+  "Edad": 27,
+  "Personajes": [
+    {
+      "Nombre": "Mikey",
+      "Serie, película, anime o videojuego": "Tokyo Revengers",
+      "Tipo de producción": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 50,
+      "Géneros": [
+        "Acción",
+        "Drama",
+        "Artes marciales"
+      ]
+    },
+    {
+      "Nombre": "Zenitsu Agatsuma",
+      "Serie, película, anime o videojuego": "Demon Slayer",
+      "Tipo de producción": "profesional",
+      "Rol": "secundario",
+      "Cantidad de apariciones": 63,
+      "Géneros": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Drama"
+      ]
+    }
+  ]
+}]

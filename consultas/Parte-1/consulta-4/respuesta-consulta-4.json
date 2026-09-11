@@ -1,0 +1,60 @@
+[{
+  "Nombre": "Hugh Grant",
+  "Nacionalidad": "Reino Unido",
+  "Edad": 66,
+  "Patrimonio": 150000000
+},
+{
+  "Nombre": "Daniel Radcliffe",
+  "Nacionalidad": "Reino Unido",
+  "Edad": 37,
+  "Patrimonio": 110000000
+},
+{
+  "Nombre": "Chris Evans",
+  "Nacionalidad": "Estados Unidos",
+  "Edad": 45,
+  "Patrimonio": 110000000
+},
+{
+  "Nombre": "Emma Watson",
+  "Nacionalidad": "Francia",
+  "Edad": 36,
+  "Patrimonio": 85000000
+},
+{
+  "Nombre": "Jeremy Renner",
+  "Nacionalidad": "Estados Unidos",
+  "Edad": 55,
+  "Patrimonio": 80000000
+},
+{
+  "Nombre": "Tara Strong",
+  "Nacionalidad": "Canadá",
+  "Edad": 53,
+  "Patrimonio": 10000000
+},
+{
+  "Nombre": "John DiMaggio",
+  "Nacionalidad": "Estados Unidos",
+  "Edad": 59,
+  "Patrimonio": 10000000
+},
+{
+  "Nombre": "Mamoru Miyano",
+  "Nacionalidad": "Japón",
+  "Edad": 43,
+  "Patrimonio": 10000000
+},
+{
+  "Nombre": "Yuri Lowenthal",
+  "Nacionalidad": "Estados Unidos",
+  "Edad": 55,
+  "Patrimonio": 6000000
+},
+{
+  "Nombre": "Troy Baker",
+  "Nacionalidad": "Estados Unidos",
+  "Edad": 50,
+  "Patrimonio": 6000000
+}]
