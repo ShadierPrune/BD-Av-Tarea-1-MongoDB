@@ -1,0 +1,150 @@
+{
+  "explainVersion": "1",
+  "stages": [
+    {
+      "$cursor": {
+        "queryPlanner": {
+          "namespace": "Actors.Voice-actors",
+          "parsedQuery": {},
+          "indexFilterSet": false,
+          "queryHash": "13DD9E3D",
+          "planCacheShapeHash": "13DD9E3D",
+          "planCacheKey": "5C6E11E9",
+          "optimizationTimeMillis": 0,
+          "maxIndexedOrSolutionsReached": false,
+          "maxIndexedAndSolutionsReached": false,
+          "maxScansToExplodeReached": false,
+          "prunedSimilarIndexes": false,
+          "winningPlan": {
+            "isCached": false,
+            "stage": "PROJECTION_SIMPLE",
+            "transformBy": {
+              "Nombre": true,
+              "Patrimonio": true,
+              "Edad": true,
+              "Nacionalidad": true,
+              "_id": false
+            },
+            "inputStage": {
+              "stage": "COLLSCAN",
+              "direction": "forward"
+            }
+          },
+          "rejectedPlans": []
+        },
+        "executionStats": {
+          "executionSuccess": true,
+          "nReturned": 35,
+          "executionTimeMillis": 2,
+          "totalKeysExamined": 0,
+          "totalDocsExamined": 35,
+          "executionStages": {
+            "isCached": false,
+            "stage": "PROJECTION_SIMPLE",
+            "nReturned": 35,
+            "executionTimeMillisEstimate": 0,
+            "works": 36,
+            "advanced": 35,
+            "needTime": 0,
+            "needYield": 0,
+            "saveState": 2,
+            "restoreState": 2,
+            "isEOF": 1,
+            "transformBy": {
+              "Nombre": true,
+              "Patrimonio": true,
+              "Edad": true,
+              "Nacionalidad": true,
+              "_id": false
+            },
+            "inputStage": {
+              "stage": "COLLSCAN",
+              "nReturned": 35,
+              "executionTimeMillisEstimate": 0,
+              "works": 36,
+              "advanced": 35,
+              "needTime": 0,
+              "needYield": 0,
+              "saveState": 2,
+              "restoreState": 2,
+              "isEOF": 1,
+              "direction": "forward",
+              "docsExamined": 35
+            }
+          }
+        }
+      },
+      "nReturned": 35,
+      "executionTimeMillisEstimate": 2
+    },
+    {
+      "$sort": {
+        "sortKey": { "Patrimonio": -1 },
+        "limit": 14
+      },
+      "totalDataSizeSortedBytesEstimate": 2890,
+      "usedDisk": false,
+      "spills": 0,
+      "spilledDataStorageSize": 0,
+      "nReturned": 14,
+      "executionTimeMillisEstimate": 2
+    },
+    {
+      "$skip": 4,
+      "nReturned": 10,
+      "executionTimeMillisEstimate": 2
+    }
+  ],
+  "queryShapeHash": "D12E1997A70E6740D20FCEEC489BD725A03AE4E094C8490D945AD4FDDC1F91B6",
+  "serverInfo": {
+    "host": "aca01138dc5d",
+    "port": 30001,
+    "version": "8.0.30",
+    "gitVersion": "360770fbc9b6a893748150d2ab2799e119b9fac9"
+  },
+  "serverParameters": {
+    "internalQueryFacetBufferSizeBytes": 104857600,
+    "internalQueryFacetMaxOutputDocSizeBytes": 104857600,
+    "internalLookupStageIntermediateDocumentMaxSizeBytes": 104857600,
+    "internalDocumentSourceGroupMaxMemoryBytes": 104857600,
+    "internalQueryMaxBlockingSortMemoryUsageBytes": 104857600,
+    "internalQueryProhibitBlockingMergeOnMongoS": 0,
+    "internalQueryMaxAddToSetBytes": 104857600,
+    "internalDocumentSourceSetWindowFieldsMaxMemoryBytes": 104857600,
+    "internalQueryFrameworkControl": "trySbeRestricted",
+    "internalQueryPlannerIgnoreIndexWithCollationForRegex": 1
+  },
+  "command": {
+    "aggregate": "Voice-actors",
+    "pipeline": [
+      {
+        "$project": {
+          "Nombre": 1,
+          "_id": 0,
+          "Patrimonio": 1,
+          "Edad": 1,
+          "Nacionalidad": 1
+        }
+      },
+      { "$sort": { "Patrimonio": -1 } },
+      { "$skip": 4 },
+      { "$limit": 10 }
+    ],
+    "cursor": {},
+    "maxTimeMS": 60000,
+    "$db": "Actors"
+  },
+  "ok": 1,
+  "$clusterTime": {
+    "clusterTime": {
+      "$timestamp": "7684423368514207745"
+    },
+    "signature": {
+      "hash": "AAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+      "keyId": 0
+    }
+  },
+  "operationTime": {
+    "$timestamp": "7684423368514207745"
+  }
+}

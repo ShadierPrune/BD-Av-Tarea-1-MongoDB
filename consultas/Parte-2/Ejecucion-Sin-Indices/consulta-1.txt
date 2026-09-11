@@ -1,0 +1,166 @@
+{
+  explainVersion: '1',
+  queryPlanner: {
+    namespace: 'Actors.Voice-actors',
+    parsedQuery: {
+      Edad: {
+        '$gt': 50
+      }
+    },
+    indexFilterSet: false,
+    queryHash: 'A757D537',
+    planCacheShapeHash: 'A757D537',
+    planCacheKey: 'B2DADEBB',
+    optimizationTimeMillis: 2,
+    maxIndexedOrSolutionsReached: false,
+    maxIndexedAndSolutionsReached: false,
+    maxScansToExplodeReached: false,
+    prunedSimilarIndexes: false,
+    winningPlan: {
+      isCached: false,
+      stage: 'PROJECTION_SIMPLE',
+      transformBy: {
+        _id: 0,
+        Nombre: 1,
+        Edad: 1,
+        Nacionalidad: 1,
+        Personajes: 1
+      },
+      inputStage: {
+        stage: 'SORT',
+        sortPattern: {
+          Edad: 1
+        },
+        memLimit: 104857600,
+        limitAmount: 10,
+        type: 'simple',
+        inputStage: {
+          stage: 'COLLSCAN',
+          filter: {
+            Edad: {
+              '$gt': 50
+            }
+          },
+          direction: 'forward'
+        }
+      }
+    },
+    rejectedPlans: []
+  },
+  executionStats: {
+    executionSuccess: true,
+    nReturned: 10,
+    executionTimeMillis: 5,
+    totalKeysExamined: 0,
+    totalDocsExamined: 35,
+    executionStages: {
+      isCached: false,
+      stage: 'PROJECTION_SIMPLE',
+      nReturned: 10,
+      executionTimeMillisEstimate: 0,
+      works: 47,
+      advanced: 10,
+      needTime: 36,
+      needYield: 0,
+      saveState: 0,
+      restoreState: 0,
+      isEOF: 1,
+      transformBy: {
+        _id: 0,
+        Nombre: 1,
+        Edad: 1,
+        Nacionalidad: 1,
+        Personajes: 1
+      },
+      inputStage: {
+        stage: 'SORT',
+        nReturned: 10,
+        executionTimeMillisEstimate: 0,
+        works: 47,
+        advanced: 10,
+        needTime: 36,
+        needYield: 0,
+        saveState: 0,
+        restoreState: 0,
+        isEOF: 1,
+        sortPattern: {
+          Edad: 1
+        },
+        memLimit: 104857600,
+        limitAmount: 10,
+        type: 'simple',
+        totalDataSizeSorted: 7153,
+        usedDisk: false,
+        spills: 0,
+        spilledDataStorageSize: 0,
+        inputStage: {
+          stage: 'COLLSCAN',
+          filter: {
+            Edad: {
+              '$gt': 50
+            }
+          },
+          nReturned: 21,
+          executionTimeMillisEstimate: 0,
+          works: 36,
+          advanced: 21,
+          needTime: 14,
+          needYield: 0,
+          saveState: 0,
+          restoreState: 0,
+          isEOF: 1,
+          direction: 'forward',
+          docsExamined: 35
+        }
+      }
+    }
+  },
+  queryShapeHash: 'E65AFEE9EBD424749282324C67AA83074C9046582B580BE0BA09943987A1D74E',
+  command: {
+    find: 'Voice-actors',
+    filter: {
+      Edad: {
+        '$gt': 50
+      }
+    },
+    sort: {
+      Edad: 1
+    },
+    projection: {
+      _id: 0,
+      Nombre: 1,
+      Edad: 1,
+      Nacionalidad: 1,
+      Personajes: 1
+    },
+    limit: 10,
+    '$db': 'Actors'
+  },
+  serverInfo: {
+    host: 'aca01138dc5d',
+    port: 30001,
+    version: '8.0.30',
+    gitVersion: '360770fbc9b6a893748150d2ab2799e119b9fac9'
+  },
+  serverParameters: {
+    internalQueryFacetBufferSizeBytes: 104857600,
+    internalQueryFacetMaxOutputDocSizeBytes: 104857600,
+    internalLookupStageIntermediateDocumentMaxSizeBytes: 104857600,
+    internalDocumentSourceGroupMaxMemoryBytes: 104857600,
+    internalQueryMaxBlockingSortMemoryUsageBytes: 104857600,
+    internalQueryProhibitBlockingMergeOnMongoS: 0,
+    internalQueryMaxAddToSetBytes: 104857600,
+    internalDocumentSourceSetWindowFieldsMaxMemoryBytes: 104857600,
+    internalQueryFrameworkControl: 'trySbeRestricted',
+    internalQueryPlannerIgnoreIndexWithCollationForRegex: 1
+  },
+  ok: 1,
+  '$clusterTime': {
+    clusterTime: Timestamp({ t: 1789165774, i: 70 }),
+    signature: {
+      hash: Binary.createFromBase64('AAAAAAAAAAAAAAAAAAAAAAAAAAA=', 0),
+      keyId: Long('0')
+    }
+  },
+  operationTime: Timestamp({ t: 1789165774, i: 70 })
+}
