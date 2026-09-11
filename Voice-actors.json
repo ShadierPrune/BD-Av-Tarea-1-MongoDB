@@ -1,3 +1,1276 @@
 [
-
+  {
+    "Nombre": "Mario Castañeda",
+    "Nacionalidad": "México",
+    "Fecha de nacimiento": "1962/06/29",
+    "Edad": 64,
+    "Patrimonio": 3000000,
+    "Idiomas": [
+      "Español"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Goku",
+        "Serie, película, anime o videojuego": "Dragon Ball Z",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 291,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Artes marciales"
+        ]
+      },
+      {
+        "Nombre": "Goku",
+        "Serie, película, anime o videojuego": "Dragon Ball Super",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 131,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Artes marciales"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "René García",
+    "Nacionalidad": "México",
+    "Fecha de nacimiento": "1974/02/12",
+    "Edad": 52,
+    "Patrimonio": 2000000,
+    "Idiomas": [
+      "Español"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Vegeta",
+        "Serie, película, anime o videojuego": "Dragon Ball Z",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 291,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Artes marciales"
+        ]
+      },
+      {
+        "Nombre": "Vegeta",
+        "Serie, película, anime o videojuego": "Dragon Ball Super",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 131,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Artes marciales"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Laura Torres",
+    "Nacionalidad": "México",
+    "Fecha de nacimiento": "1967/08/18",
+    "Edad": 59,
+    "Patrimonio": 1500000,
+    "Idiomas": [
+      "Español"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Gohan",
+        "Serie, película, anime o videojuego": "Dragon Ball Z",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 291,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Artes marciales"
+        ]
+      },
+      {
+        "Nombre": "Goten",
+        "Serie, película, anime o videojuego": "Dragon Ball Z",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 291,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Artes marciales"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Eduardo Garza",
+    "Nacionalidad": "México",
+    "Fecha de nacimiento": "1979/01/10",
+    "Edad": 47,
+    "Patrimonio": 2000000,
+    "Idiomas": [
+      "Español"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Krillin",
+        "Serie, película, anime o videojuego": "Dragon Ball Z",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 291,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Artes marciales"
+        ]
+      },
+      {
+        "Nombre": "Josh Nichols",
+        "Serie, película, anime o videojuego": "Drake & Josh",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 57,
+        "Géneros": [
+          "Comedia",
+          "Familia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cristina Hernández",
+    "Nacionalidad": "México",
+    "Fecha de nacimiento": "1971/05/13",
+    "Edad": 55,
+    "Patrimonio": 2000000,
+    "Idiomas": [
+      "Español"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Sailor Chibi Moon",
+        "Serie, película, anime o videojuego": "Sailor Moon",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 200,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Romance"
+        ]
+      },
+      {
+        "Nombre": "Sakura Kinomoto",
+        "Serie, película, anime o videojuego": "Cardcaptor Sakura",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 70,
+        "Géneros": [
+          "Aventura",
+          "Fantasía",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Isabel Martiñón",
+    "Nacionalidad": "México",
+    "Fecha de nacimiento": "1969/03/12",
+    "Edad": 57,
+    "Patrimonio": 1200000,
+    "Idiomas": [
+      "Español"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Naruto Uzumaki",
+        "Serie, película, anime o videojuego": "Naruto",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 220,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Fantasía"
+        ]
+      },
+      {
+        "Nombre": "Naruto Uzumaki",
+        "Serie, película, anime o videojuego": "Naruto Shippuden",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 500,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Fantasía"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Patricia Acevedo",
+    "Nacionalidad": "México",
+    "Fecha de nacimiento": "1959/04/29",
+    "Edad": 67,
+    "Patrimonio": 1500000,
+    "Idiomas": [
+      "Español"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Sakura Haruno",
+        "Serie, película, anime o videojuego": "Naruto",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 220,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Fantasía"
+        ]
+      },
+      {
+        "Nombre": "Sailor Moon",
+        "Serie, película, anime o videojuego": "Sailor Moon",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 200,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Carlos Segundo",
+    "Nacionalidad": "México",
+    "Fecha de nacimiento": "1942/07/09",
+    "Edad": 84,
+    "Patrimonio": 1000000,
+    "Idiomas": [
+      "Español"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Piccolo",
+        "Serie, película, anime o videojuego": "Dragon Ball Z",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 291,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Artes marciales"
+        ]
+      },
+      {
+        "Nombre": "Alf",
+        "Serie, película, anime o videojuego": "ALF",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 102,
+        "Géneros": [
+          "Comedia",
+          "Ciencia ficción",
+          "Familia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Humberto Vélez",
+    "Nacionalidad": "México",
+    "Fecha de nacimiento": "1955/03/30",
+    "Edad": 71,
+    "Patrimonio": 1500000,
+    "Idiomas": [
+      "Español"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Homero Simpson",
+        "Serie, película, anime o videojuego": "Los Simpson",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 700,
+        "Géneros": [
+          "Comedia",
+          "Animación"
+        ]
+      },
+      {
+        "Nombre": "Winnie the Pooh",
+        "Serie, película, anime o videojuego": "Winnie the Pooh",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 50,
+        "Géneros": [
+          "Aventura",
+          "Comedia",
+          "Familia",
+          "Fantasía"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Masako Nozawa",
+    "Nacionalidad": "Japón",
+    "Fecha de nacimiento": "1936/10/25",
+    "Edad": 89,
+    "Patrimonio": 5000000,
+    "Idiomas": [
+      "Japonés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Goku",
+        "Serie, película, anime o videojuego": "Dragon Ball Z",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 291,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Artes marciales"
+        ]
+      },
+      {
+        "Nombre": "Gohan",
+        "Serie, película, anime o videojuego": "Dragon Ball Z",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 291,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Artes marciales"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Mayumi Tanaka",
+    "Nacionalidad": "Japón",
+    "Fecha de nacimiento": "1955/01/15",
+    "Edad": 71,
+    "Patrimonio": 5000000,
+    "Idiomas": [
+      "Japonés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Krillin",
+        "Serie, película, anime o videojuego": "Dragon Ball Z",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 291,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Artes marciales"
+        ]
+      },
+      {
+        "Nombre": "Monkey D. Luffy",
+        "Serie, película, anime o videojuego": "One Piece",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 1150,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Comedia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Chie Nakamura",
+    "Nacionalidad": "Japón",
+    "Fecha de nacimiento": "1980/05/14",
+    "Edad": 46,
+    "Patrimonio": 3000000,
+    "Idiomas": [
+      "Japonés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Sakura Haruno",
+        "Serie, película, anime o videojuego": "Naruto",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 220,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Fantasía"
+        ]
+      },
+      {
+        "Nombre": "Sakura Haruno",
+        "Serie, película, anime o videojuego": "Naruto Shippuden",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 500,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Fantasía"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Junko Takeuchi",
+    "Nacionalidad": "Japón",
+    "Fecha de nacimiento": "1972/04/05",
+    "Edad": 54,
+    "Patrimonio": 3000000,
+    "Idiomas": [
+      "Japonés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Naruto Uzumaki",
+        "Serie, película, anime o videojuego": "Naruto",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 220,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Fantasía"
+        ]
+      },
+      {
+        "Nombre": "Naruto Uzumaki",
+        "Serie, película, anime o videojuego": "Naruto Shippuden",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 500,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Fantasía"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Mamoru Miyano",
+    "Nacionalidad": "Japón",
+    "Fecha de nacimiento": "1983/06/08",
+    "Edad": 43,
+    "Patrimonio": 10000000,
+    "Idiomas": [
+      "Japonés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Light Yagami",
+        "Serie, película, anime o videojuego": "Death Note",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 37,
+        "Géneros": [
+          "Misterio",
+          "Suspenso",
+          "Fantasía",
+          "Drama"
+        ]
+      },
+      {
+        "Nombre": "Rintaro Okabe",
+        "Serie, película, anime o videojuego": "Steins;Gate",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 24,
+        "Géneros": [
+          "Ciencia ficción",
+          "Suspenso",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Natsuki Hanae",
+    "Nacionalidad": "Japón",
+    "Fecha de nacimiento": "1991/06/26",
+    "Edad": 35,
+    "Patrimonio": 3000000,
+    "Idiomas": [
+      "Japonés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Tanjiro Kamado",
+        "Serie, película, anime o videojuego": "Demon Slayer",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 63,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Drama"
+        ]
+      },
+      {
+        "Nombre": "Sakuta Azusagawa",
+        "Serie, película, anime o videojuego": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 13,
+        "Géneros": [
+          "Romance",
+          "Drama",
+          "Fantasía"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Fernando Moctezuma",
+    "Nacionalidad": "México",
+    "Fecha de nacimiento": "1982/09/07",
+    "Edad": 44,
+    "Patrimonio": 1000000,
+    "Idiomas": [
+      "Español"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Sung Jinwoo",
+        "Serie, película, anime o videojuego": "Solo Leveling",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 25,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Masumi Mutsuda",
+    "Nacionalidad": "España",
+    "Fecha de nacimiento": "1977/07/17",
+    "Edad": 49,
+    "Patrimonio": 1000000,
+    "Idiomas": [
+      "Español"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Sung Jinwoo",
+        "Serie, película, anime o videojuego": "Solo Leveling",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 25,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tara Strong",
+    "Nacionalidad": "Canadá",
+    "Fecha de nacimiento": "1973/02/12",
+    "Edad": 53,
+    "Patrimonio": 10000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Raven",
+        "Serie, película, anime o videojuego": "Teen Titans",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 65,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Comedia",
+          "Superhéroes"
+        ]
+      },
+      {
+        "Nombre": "Bubbles",
+        "Serie, película, anime o videojuego": "The Powerpuff Girls",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 78,
+        "Géneros": [
+          "Acción",
+          "Comedia",
+          "Superhéroes",
+          "Animación"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "John DiMaggio",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1967/09/04",
+    "Edad": 59,
+    "Patrimonio": 10000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Bender",
+        "Serie, película, anime o videojuego": "Futurama",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 140,
+        "Géneros": [
+          "Ciencia ficción",
+          "Comedia",
+          "Animación"
+        ]
+      },
+      {
+        "Nombre": "Jake",
+        "Serie, película, anime o videojuego": "Adventure Time",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 283,
+        "Géneros": [
+          "Aventura",
+          "Comedia",
+          "Fantasía",
+          "Animación"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Grey DeLisle",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1973/08/24",
+    "Edad": 53,
+    "Patrimonio": 5000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Daphne Blake",
+        "Serie, película, anime o videojuego": "Scooby-Doo",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 200,
+        "Géneros": [
+          "Misterio",
+          "Comedia",
+          "Aventura",
+          "Animación"
+        ]
+      },
+      {
+        "Nombre": "Azula",
+        "Serie, película, anime o videojuego": "Avatar: The Last Airbender",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 20,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Matthew Mercer",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1982/06/29",
+    "Edad": 44,
+    "Patrimonio": 4000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Levi Ackerman",
+        "Serie, película, anime o videojuego": "Attack on Titan",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 28,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Fantasía"
+        ]
+      },
+      {
+        "Nombre": "Ganondorf",
+        "Serie, película, anime o videojuego": "The Legend of Zelda",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 5,
+        "Géneros": [
+          "Aventura",
+          "Fantasía",
+          "Acción"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yuri Lowenthal",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1971/03/05",
+    "Edad": 55,
+    "Patrimonio": 6000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Peter Parker",
+        "Serie, película, anime o videojuego": "Marvel's Spider-Man",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 2,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Superhéroes"
+        ]
+      },
+      {
+        "Nombre": "Sasuke Uchiha",
+        "Serie, película, anime o videojuego": "Naruto",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 220,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Fantasía"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Laura Bailey",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1981/05/28",
+    "Edad": 45,
+    "Patrimonio": 5000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Abby Anderson",
+        "Serie, película, anime o videojuego": "The Last of Us Part II",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Drama",
+          "Supervivencia"
+        ]
+      },
+      {
+        "Nombre": "Jaina Proudmoore",
+        "Serie, película, anime o videojuego": "Warcraft",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 20,
+        "Géneros": [
+          "Fantasía",
+          "Aventura",
+          "Acción"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Troy Baker",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1976/04/01",
+    "Edad": 50,
+    "Patrimonio": 6000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Joel Miller",
+        "Serie, película, anime o videojuego": "The Last of Us",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Drama",
+          "Acción",
+          "Aventura",
+          "Supervivencia"
+        ]
+      },
+      {
+        "Nombre": "Booker DeWitt",
+        "Serie, película, anime o videojuego": "BioShock Infinite",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Ciencia ficción"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Nolan North",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1970/10/31",
+    "Edad": 55,
+    "Patrimonio": 4000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Nathan Drake",
+        "Serie, película, anime o videojuego": "Uncharted",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 6,
+        "Géneros": [
+          "Acción",
+          "Aventura"
+        ]
+      },
+      {
+        "Nombre": "Deadpool",
+        "Serie, película, anime o videojuego": "Marvel",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 10,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Superhéroes"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Aleks Le",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1999/06/12",
+    "Edad": 27,
+    "Patrimonio": 500000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Mikey",
+        "Serie, película, anime o videojuego": "Tokyo Revengers",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 50,
+        "Géneros": [
+          "Acción",
+          "Drama",
+          "Artes marciales"
+        ]
+      },
+      {
+        "Nombre": "Zenitsu Agatsuma",
+        "Serie, película, anime o videojuego": "Demon Slayer",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 63,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Fantasía",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hugh Grant",
+    "Nacionalidad": "Reino Unido",
+    "Fecha de nacimiento": "1960/09/09",
+    "Edad": 66,
+    "Patrimonio": 150000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "William Thacker",
+        "Serie, película, anime o videojuego": "Notting Hill",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Romance",
+          "Comedia"
+        ]
+      },
+      {
+        "Nombre": "Mr. Phoenix",
+        "Serie, película, anime o videojuego": "Dungeons & Dragons: Honor Among Thieves",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Aventura",
+          "Fantasía",
+          "Comedia",
+          "Acción"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Julia Roberts",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1967/10/28",
+    "Edad": 58,
+    "Patrimonio": 250000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Anna Scott",
+        "Serie, película, anime o videojuego": "Notting Hill",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Romance",
+          "Comedia"
+        ]
+      },
+      {
+        "Nombre": "Miranda",
+        "Serie, película, anime o videojuego": "Mirror Mirror",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Fantasía",
+          "Aventura",
+          "Comedia",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Daniel Radcliffe",
+    "Nacionalidad": "Reino Unido",
+    "Fecha de nacimiento": "1989/07/23",
+    "Edad": 37,
+    "Patrimonio": 110000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Harry Potter",
+        "Serie, película, anime o videojuego": "Harry Potter",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 8,
+        "Géneros": [
+          "Fantasía",
+          "Aventura",
+          "Drama"
+        ]
+      },
+      {
+        "Nombre": "Igor",
+        "Serie, película, anime o videojuego": "Victor Frankenstein",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Terror",
+          "Drama",
+          "Ciencia ficción"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Emma Watson",
+    "Nacionalidad": "Francia",
+    "Fecha de nacimiento": "1990/04/15",
+    "Edad": 36,
+    "Patrimonio": 85000000,
+    "Idiomas": [
+      "Inglés",
+      "Francés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Hermione Granger",
+        "Serie, película, anime o videojuego": "Harry Potter",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 8,
+        "Géneros": [
+          "Fantasía",
+          "Aventura",
+          "Drama"
+        ]
+      },
+      {
+        "Nombre": "Belle",
+        "Serie, película, anime o videojuego": "Beauty and the Beast",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Fantasía",
+          "Romance",
+          "Musical"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Keanu Reeves",
+    "Nacionalidad": "Líbano",
+    "Fecha de nacimiento": "1964/09/02",
+    "Edad": 62,
+    "Patrimonio": 380000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Johnny Silverhand",
+        "Serie, película, anime o videojuego": "Cyberpunk 2077",
+        "Tipo de producción": "profesional",
+        "Rol": "secundario",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Ciencia ficción",
+          "Rol"
+        ]
+      },
+      {
+        "Nombre": "John Wick",
+        "Serie, película, anime o videojuego": "John Wick",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 4,
+        "Géneros": [
+          "Acción",
+          "Suspenso",
+          "Crimen"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ryan Reynolds",
+    "Nacionalidad": "Canadá",
+    "Fecha de nacimiento": "1976/10/23",
+    "Edad": 49,
+    "Patrimonio": 350000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Deadpool",
+        "Serie, película, anime o videojuego": "Deadpool",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 3,
+        "Géneros": [
+          "Acción",
+          "Comedia",
+          "Superhéroes"
+        ]
+      },
+      {
+        "Nombre": "Guy",
+        "Serie, película, anime o videojuego": "Free Guy",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Acción",
+          "Comedia",
+          "Ciencia ficción"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Dwayne Johnson",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1972/05/02",
+    "Edad": 54,
+    "Patrimonio": 800000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Maui",
+        "Serie, película, anime o videojuego": "Moana",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Aventura",
+          "Fantasía",
+          "Musical",
+          "Familia"
+        ]
+      },
+      {
+        "Nombre": "Luke Hobbs",
+        "Serie, película, anime o videojuego": "Rápidos y Furiosos 8",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 1,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Crimen"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Chris Evans",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1981/06/13",
+    "Edad": 45,
+    "Patrimonio": 110000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Steve Rogers / Capitán América",
+        "Serie, película, anime o videojuego": "The Avengers",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 4,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Superhéroes",
+          "Ciencia ficción"
+        ]
+      },
+      {
+        "Nombre": "Johnny Storm",
+        "Serie, película, anime o videojuego": "Fantastic Four",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 2,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Superhéroes",
+          "Ciencia ficción"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Jeremy Renner",
+    "Nacionalidad": "Estados Unidos",
+    "Fecha de nacimiento": "1971/01/07",
+    "Edad": 55,
+    "Patrimonio": 80000000,
+    "Idiomas": [
+      "Inglés"
+    ],
+    "Personajes": [
+      {
+        "Nombre": "Clint Barton / Hawkeye",
+        "Serie, película, anime o videojuego": "The Avengers",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 5,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Superhéroes",
+          "Ciencia ficción"
+        ]
+      },
+      {
+        "Nombre": "Clint Barton / Hawkeye",
+        "Serie, película, anime o videojuego": "Hawkeye",
+        "Tipo de producción": "profesional",
+        "Rol": "principal",
+        "Cantidad de apariciones": 6,
+        "Géneros": [
+          "Acción",
+          "Aventura",
+          "Superhéroes",
+          "Comedia"
+        ]
+      }
+    ]
+  }
 ]
