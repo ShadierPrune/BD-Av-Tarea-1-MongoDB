@@ -38,9 +38,7 @@ Cuando quiera terminar el proceso debe:
 
     docker-compose down -v
 
-2. Para borrar la carpeta de data:
-
-   borre la carpeta "data"
+2. Borre la carpeta /data
 
 
 
